@@ -32,8 +32,12 @@ body {
       color: rgb(241, 93, 93);
    }
 
-.graphic{
+     .graphic{
       background-image: url("image/chantaburi-cover.jpeg"); 
       height: 320px;
       padding: auto;
 
+      .maps {
+        border: 1px solid blue;
+        height: 300px ;
+       }
