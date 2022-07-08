@@ -32,17 +32,22 @@ body {
       color: rgb(241, 93, 93);
    }
 
-     .graphic{
+     .graphic {
       background-image: url("image/chantaburi-cover.jpeg"); 
       height: 320px;
-      padding: auto;
-
+      padding: auto;}
+      
       .maps {
         border: 1px solid blue;
         height: 300px ;
        }
 
-       .Top10{
+       .Top10 {
         background-color: rgb(248, 248, 248);
         padding: 10px;
+       }
+
+       .img10 {
+        width: 190px;
+        border-radius: 10px;
        }
