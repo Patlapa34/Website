@@ -55,3 +55,15 @@ body {
       .Topmenu {
         height: 40;
       }
+      
+      .Topmenu ul{
+        list-style: disc;
+        margin: auto;
+        display: flex;
+        justify-content: left;
+
+      }
+      .Topmenu ui{
+        float: right;
+        padding: 10px 40px;
+      }
